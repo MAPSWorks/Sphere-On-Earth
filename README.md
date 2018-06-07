@@ -1,3 +1,6 @@
+
+If there are GLFW issues uninstall and then reinstall GLFW using NuGet package manager
+
 Lab 3 - Hello Triangle and Installing prerequisite software
 ========================================
 
